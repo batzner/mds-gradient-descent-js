@@ -1,5 +1,7 @@
 # mds-gradient-descent-js
-Performing Multidimensional Scaling with Gradient Descent and Gauss-Newton
+Performing Multidimensional Scaling with Gradient Descent and Gauss-Newton.
+
+For more info, see the corresponding blog post at https://theblog.github.io/post/visualizing-travel-times-with-multidimensional-scaling/.
 
 ## Usage
 
